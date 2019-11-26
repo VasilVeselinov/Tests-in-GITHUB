@@ -1,2 +1,0 @@
-now i test the command: .gitignore
-Test 2 16:28
